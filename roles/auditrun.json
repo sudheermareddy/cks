@@ -1,5 +1,5 @@
 {
-   "name": "Audit",
+   "name": "auditrun",
    "description": "Audit run role.",
    "json_class": "Chef::Role",
    "default_attributes": {
